@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/emmaodia/vending-machine.svg?branch=master)](https://travis-ci.org/emmaodia/vending-machine)
+[![Build Status](https://travis-ci.org/emmaodia/vending-machine.svg?branch=master)](https://travis-ci.org/emmaodia/vending-machine) [![codecov](https://codecov.io/gh/emmaodia/vending-machine/branch/master/graph/badge.svg)](https://codecov.io/gh/emmaodia/vending-machine)
